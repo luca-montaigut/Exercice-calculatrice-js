@@ -26,7 +26,7 @@ Créer 4 fonctions :
 
 - `add`
 - `subtract`
-- `mulitply`
+- `multiply`
 - `divide`
 
 Chacune prenant 2 nombres en argument et qui renvoie (`return`) le résultat de leur opération respective. Vous pouvez essayer vos fonctions dans la console du navigateur.
